@@ -1,0 +1,13 @@
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\obj\Debug\DapperStudents.DataAccess.csprojAssemblyReference.cache
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\obj\Debug\DapperStudents.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\Database.mdf
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\Database_log.ldf
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\DapperStudents.Repository.dll
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\DapperStudents.Repository.pdb
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\Dapper.dll
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\DapperStudents.Models.dll
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\DapperStudents.Models.pdb
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\bin\Debug\Dapper.xml
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\obj\Debug\DapperStudents.DataAccess.csproj.CopyComplete
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\obj\Debug\DapperStudents.Repository.dll
+C:\Users\ТынышбаевА.CORP\source\repos\DapperStudents\DapperStudents.Repository\obj\Debug\DapperStudents.Repository.pdb
